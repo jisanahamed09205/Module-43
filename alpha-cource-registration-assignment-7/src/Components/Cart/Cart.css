@@ -1,0 +1,25 @@
+
+/* .cart-li{
+    align-items: start;
+} */
+/* .cart-special{
+    justify-content: start;
+    align-items: start;
+} */
+.cart-container{
+    /* background-color: whitesmoke; */
+    /* width:110%; */
+    padding: 20px;
+}
+.cart-special{
+    color: #2F80ED;
+    font-size: 16px;
+    font-weight: 700;
+}
+li{
+    list-style-type:decimal;
+}
+.credit{
+    font-size: 16px;
+    font-weight: 500;
+}

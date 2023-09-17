@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/FVkCmVr/1.png",
+        "title": "Intro to C Programming",
+        "details_course": "Learn the basics of C programming. Suitable for beginners. No prior experience required.",
+        "price": 15000,
+        "credit_time": 1
+    },
+    {
+        "id": 2,
+        "cover_img": "https://i.ibb.co/fngJ61v/2.png",
+        "title": "Introduction to Algorithms",
+        "details_course": "Explore fundamental algorithms and their analysis. Essential for aspiring programmers.",
+        "price": 25000,
+        "credit_time": 2
+    },
+    {
+        "id": 3,
+        "cover_img": "https://i.ibb.co/NFrwms3/3.png",
+        "title": "Introduction to C++ for DSA",
+        "details_course": "Utilize C++ for Data Structures and Algorithms. Learn classes, templates, and STL.",
+        "price": 10000,
+        "credit_time": 10
+    },
+    {
+        "id": 4,
+        "cover_img": "https://i.ibb.co/8d4d9n5/4.png",
+        "title": "Basic Data Structures",
+        "details_course": "Master fundamental data structures: arrays, linked lists, stacks, and queues.",
+        "price": 35000,
+        "credit_time": 5
+    },
+    {
+        "id": 5,
+        "cover_img": "https://i.ibb.co/XL35JBg/5.png",
+        "title": "Introduction to OOP Python",
+        "details_course": "Learn OOP concepts using Python. Classes, inheritance, polymorphism, and encapsulation.",
+        "price": 19000,
+        "credit_time": 5
+    },
+    {
+        "id": 6,
+        "cover_img": "https://i.ibb.co/ZgxLs72/6.png",
+        "title": "Software Engineering",
+        "details_course": "Cover development methodologies, design patterns, testing, and project management.",
+        "price": 23000,
+        "credit_time": 2
+    },
+    {
+        "id": 7,
+        "cover_img": "https://i.ibb.co/fddX9HB/7.png",
+        "title": "AWS, Cloud Computing",
+        "details_course": "Introduction to cloud computing with a focus on AWS services like EC2 and S3.",
+        "price": 35000,
+        "credit_time": 5
+    },
+    {
+        "id": 8,
+        "cover_img": "https://i.ibb.co/7RN2ZVX/8.png",
+        "title": "Database (MySQL)",
+        "details_course": "Learn MySQL for relational database management. Design, query, and administer databases.",
+        "price": 19000,
+        "credit_time": 5
+    },
+    {
+        "id": 9,
+        "cover_img": "https://i.ibb.co/KFRSx0p/9.png",
+        "title": "Problem-Solving Part",
+        "details_course": "Advanced problem-solving techniques for competitive programming and technical interviews.",
+        "price": 23000,
+        "credit_time": 2
+    }
+]
